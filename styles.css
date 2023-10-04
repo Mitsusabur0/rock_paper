@@ -1,3 +1,9 @@
 body {
     background-color: grey;
 }
+
+#buttons {
+    border: solid 1px black;
+    width:fit-content;
+    padding: 20px;
+}
